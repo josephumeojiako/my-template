@@ -1,0 +1,85 @@
+/*body*/
+body{
+	background-color: green !important;
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	background-attachment: fixed;
+}
+.navbar{
+	margin-top: 20px !important;
+}
+.mysearch{
+	
+margin-top:8px !important;
+}
+
+.white{
+	color:white !important;
+	}
+.big{
+font-size: 80px !important;	
+margin-top: 70px !important;
+}
+
+.short{
+	height:50px !important;
+	width:50px !important;
+}
+.all{
+	background-color: white !important;
+	border-left:10px !important;
+	border-right: 10px !important;
+}
+
+img{
+	height:400px !important;
+	
+}
+
+.black{
+	color:black !important;
+}
+.jumbotron{
+	margin-top:20px !important;
+}
+
+.social-media-icons ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.social-media-icons a {	
+	display: inline-block;
+	text-decoration: none;
+	padding: 4px;
+	height:20px;
+}
+
+.social-media-icons a:nth-child(1) i {
+	color: black;
+}
+
+.social-media-icons a:nth-child(2) i {
+	color: black;
+}
+
+.social-media-icons a:nth-child(3) i {
+	color: black;
+}
+
+.social-media-icons a:nth-child(4) i {
+	color: black;
+}
+.social-media-icons a:nth-child(5) i {
+	color: black;
+}
+
+.social-media-icons a i:hover{
+	color: green;
+}
+
+.togging, .togging1, .togging2, .togging3, .togging4, .togging5, .togging6, .togging7, .togging8, .togging9, .togging10, .togging11{
+	display:none;
+}
+

@@ -1,0 +1,223 @@
+/*body*/
+body{
+background-color:ash;
+background-repeat: no-repeat;
+background-size:100% 100%;
+background-attachment: fixed;
+}
+/* seach bar*/
+.mysearch{
+	
+margin-top:8px !important;
+}
+/* for all the h5*/
+h5 {
+  display: inline-block;
+  padding: 10px;
+  background: #B9121B;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/* images*/
+img{
+	height:500px !important;
+	
+}
+/* for the logo*/
+.short{
+	height:50px !important;
+	width:50px !important;
+}
+/* sections of the webpage*/
+section {
+	width: 100% !important;
+	height: 100% !important;
+	
+	}
+/*section below the carousel*/	
+.page-footer{
+	height:100px;
+	background-color:green !important;
+}
+/* for the button below the carousel*/
+.rapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute !important;
+    top: 50% !important;
+}
+/* for the school news letter form validation*/
+#successMessage{
+			
+			color:green;
+			font-size:110%;
+			display: none;
+}
+/* for the school news letter form validation*/		
+#errorMessage{
+			
+	color:red;
+	font-size:110%;
+	}
+/* heading for school calender*/	
+.cover{
+	padding:12px !important;
+	background-color:green !important;
+	color:white;
+}
+/*heading before the Gp section*/
+#cove{
+	padding:12px !important;
+	background-color:green !important;
+	color:white;
+	margin-top: 20px;
+}
+
+.gp{
+	padding:10px !important;
+	background-color:green !important;
+	color:white;
+	margin-top: 18px;
+}
+/* for accordion*/
+#accordion{
+	background-color:green!important;
+	
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+/* soace for the homepage drop down*/
+#drop{
+margin-top:55px;	
+
+}
+
+/* for the drop down*/
+.dropp{
+	margin-top:10px;
+}
+/* GP result*/
+#result{
+	border: 1px solid black !important;
+	color: green !important;
+	}
+	
+
+	
+
+/* social media icon styling staarts here*/
+.social-media-icons ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.social-media-icons a {	
+	display: inline-block;
+	text-decoration: none;
+	padding: 4px;
+	height:20px;
+}
+
+.social-media-icons a:nth-child(1) i {
+	color: black;
+}
+
+.social-media-icons a:nth-child(2) i {
+	color: black;
+}
+
+.social-media-icons a:nth-child(3) i {
+	color: black;
+}
+
+.social-media-icons a:nth-child(4) i {
+	color: black;
+}
+.social-media-icons a:nth-child(5) i {
+	color: black;
+}
+
+.social-media-icons a i:hover{
+	color: white;
+}
+
+.gre{
+	background-color:green;
+}
+/* social media icon styling end here*/
+
+/* for white texts*/
+.white{
+		color:white;
+}
+/* for all the <a hrefs> */
+a{
+	color:green !important;
+	
+}
+
+
+@media screen and (max-width: 600px) {
+  .dropbtn {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .dropbtn {
+    width: 100%;
+  }
+}
